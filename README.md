@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Swiftminale
-- 👀 I’m interested in Front End web development
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Front End and Back End web development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Beginners Code
-- 📫 How to reach me here on Github or Email
+- 📫 How to reach me here on Github or Minalefetene@gmail.com
 
 <!---
 Swiftminale/Swiftminale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
